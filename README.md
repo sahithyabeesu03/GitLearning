@@ -1,2 +1,2 @@
 # gitlearning
-sample learn
+sample learning of git and github
