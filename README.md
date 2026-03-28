@@ -1,2 +1,3 @@
 # git and github learning
-sample learning of git and github edited by sahi
+sample learning of git and github edited by sahi, sravya done
+
